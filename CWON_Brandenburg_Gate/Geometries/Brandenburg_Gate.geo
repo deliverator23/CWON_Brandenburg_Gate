@@ -14,7 +14,7 @@
 <m_Name text="EaglePole"/>
 <m_Groups>
 <Element>
-<m_Name text="EaglePole"/>
+<m_Name text="brgt_texture5"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1510</m_nPrims>
 </Element>
@@ -27,49 +27,54 @@
 <m_Name text="Main"/>
 <m_Groups>
 <Element>
-<m_Name text="texture0"/>
+<m_Name text="brgt_texture0"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>16</m_nPrims>
 </Element>
 <Element>
-<m_Name text="texture9"/>
+<m_Name text="brgt_texture9"/>
 <m_nFirstPrim>16</m_nFirstPrim>
 <m_nPrims>76</m_nPrims>
 </Element>
 <Element>
-<m_Name text="texture1"/>
+<m_Name text="brgt_texture1"/>
 <m_nFirstPrim>92</m_nFirstPrim>
 <m_nPrims>28</m_nPrims>
 </Element>
 <Element>
-<m_Name text="texture2"/>
+<m_Name text="brgt_texture2"/>
 <m_nFirstPrim>120</m_nFirstPrim>
 <m_nPrims>16</m_nPrims>
 </Element>
 <Element>
-<m_Name text="texture10"/>
+<m_Name text="brgt_texture10"/>
 <m_nFirstPrim>136</m_nFirstPrim>
 <m_nPrims>42</m_nPrims>
 </Element>
 <Element>
-<m_Name text="texture7"/>
+<m_Name text="brgt_texture7"/>
 <m_nFirstPrim>178</m_nFirstPrim>
 <m_nPrims>64</m_nPrims>
 </Element>
 <Element>
-<m_Name text="texture8"/>
+<m_Name text="brgt_texture8"/>
 <m_nFirstPrim>242</m_nFirstPrim>
 <m_nPrims>34</m_nPrims>
 </Element>
 <Element>
-<m_Name text="texture4"/>
+<m_Name text="brgt_texture4"/>
 <m_nFirstPrim>276</m_nFirstPrim>
-<m_nPrims>840</m_nPrims>
+<m_nPrims>704</m_nPrims>
 </Element>
 <Element>
-<m_Name text="texture3"/>
-<m_nFirstPrim>1116</m_nFirstPrim>
+<m_Name text="brgt_texture3"/>
+<m_nFirstPrim>980</m_nFirstPrim>
 <m_nPrims>16048</m_nPrims>
+</Element>
+<Element>
+<m_Name text="brgt_texture11"/>
+<m_nFirstPrim>17028</m_nFirstPrim>
+<m_nPrims>136</m_nPrims>
 </Element>
 </m_Groups>
 <m_nBoundBoneCount>1</m_nBoundBoneCount>
@@ -80,7 +85,7 @@
 <m_Name text="Quadriga_Base"/>
 <m_Groups>
 <Element>
-<m_Name text="Material.002"/>
+<m_Name text="brgt_texture6"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>12</m_nPrims>
 </Element>
@@ -93,7 +98,7 @@
 <m_Name text="Quadriga_Statue"/>
 <m_Groups>
 <Element>
-<m_Name text="Material.002"/>
+<m_Name text="brgt_texture6"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2564</m_nPrims>
 </Element>

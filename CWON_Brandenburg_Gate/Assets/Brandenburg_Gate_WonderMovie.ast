@@ -47,8 +47,8 @@
 					<Element>
 						<m_Name text="REVEAL_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="WON_Petra_Wonder_Movie"/>
-						<m_fDuration>0.000000</m_fDuration>
+						<m_AnimationName text=""/>
+						<m_fDuration>16.666668</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -92,8 +92,8 @@
 					<Element>
 						<m_Name text="CONSTRUCTION_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Show_Half_Built"/>
-						<m_fDuration>0.000000</m_fDuration>
+						<m_AnimationName text=""/>
+						<m_fDuration>2.333333</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
 							<Element>
@@ -158,8 +158,8 @@
 					<Element>
 						<m_Name text="RUINED_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="Show_Half_Built"/>
-						<m_fDuration>0.000000</m_fDuration>
+						<m_AnimationName text=""/>
+						<m_fDuration>2.333333</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>ASSET_FX</m_eType>
@@ -257,25 +257,25 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>0.000000</x>
-							<y>0.000000</y>
-							<z>0.000000</z>
+							<x>1.950048</x>
+							<y>3.377580</y>
+							<z>-0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
 							<y>0.000000</y>
 							<z>0.523599</z>
 						</m_orientation>
-						<m_Name text="Porcelain"/>
+						<m_Name text="Wonder"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>7</m_scale>
+						<m_scale>6.500000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
 							<m_Values>
 								<Element class="AssetObjects..BLPEntryValue">
-									<m_EntryName text=""/>
+									<m_EntryName text="Brandenburg_Gate_HB"/>
 									<m_XLPClass text="TileBase"/>
 									<m_XLPPath text="tilebases.xlp"/>
 									<m_BLPPackage text="landmarks/tilebases"/>
@@ -305,19 +305,19 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>0.000000</x>
-							<y>0.000000</y>
-							<z>0.000000</z>
+							<x>1.950048</x>
+							<y>3.377580</y>
+							<z>-0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
 							<y>0.000000</y>
-							<z>0.000000</z>
+							<z>0.523599</z>
 						</m_orientation>
-						<m_Name text="Porcelain_HB"/>
-						<m_BoneName text="WON_Bone"/>
+						<m_Name text="Wonder_HB"/>
+						<m_BoneName text="HB_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>1.000000</m_scale>
+						<m_scale>6.500000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -415,6 +415,198 @@
 						<m_ModelInstanceName text="WON_Dummy"/>
 						<m_scale>1.000000</m_scale>
 					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values>
+								<Element class="AssetObjects..BLPEntryValue">
+									<m_EntryName text="DIS_GEN_LamppostIND"/>
+									<m_XLPClass text="TileBase"/>
+									<m_XLPPath text="tilebases.xlp"/>
+									<m_BLPPackage text="landmarks/tilebases"/>
+									<m_LibraryName text="TileBase"/>
+									<m_ParamName text="Asset"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text="Landmarks.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Landmarks"/>
+									<m_ParamName text="ResourceType"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="Pivot Height"/>
+									<m_ParamName text="TerrainFollowMode"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="OPTIONAL"/>
+									<m_ParamName text="Cull Mode"/>
+								</Element>
+							</m_Values>
+						</m_CookParams>
+						<m_position>
+							<x>4.250972</x>
+							<y>-11.057100</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.523599</z>
+						</m_orientation>
+						<m_Name text="lamp1"/>
+						<m_BoneName text="WON_Dummy"/>
+						<m_ModelInstanceName text="WON_Dummy"/>
+						<m_scale>1.500000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values>
+								<Element class="AssetObjects..BLPEntryValue">
+									<m_EntryName text="DIS_GEN_LamppostIND"/>
+									<m_XLPClass text="TileBase"/>
+									<m_XLPPath text="tilebases.xlp"/>
+									<m_BLPPackage text="landmarks/tilebases"/>
+									<m_LibraryName text="TileBase"/>
+									<m_ParamName text="Asset"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text="Landmarks.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Landmarks"/>
+									<m_ParamName text="ResourceType"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="Pivot Height"/>
+									<m_ParamName text="TerrainFollowMode"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="OPTIONAL"/>
+									<m_ParamName text="Cull Mode"/>
+								</Element>
+							</m_Values>
+						</m_CookParams>
+						<m_position>
+							<x>-10.485008</x>
+							<y>-1.971953</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.523599</z>
+						</m_orientation>
+						<m_Name text="lamp2"/>
+						<m_BoneName text="WON_Dummy"/>
+						<m_ModelInstanceName text="WON_Dummy"/>
+						<m_scale>1.500000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values>
+								<Element class="AssetObjects..BLPEntryValue">
+									<m_EntryName text="DIS_GEN_LamppostIND"/>
+									<m_XLPClass text="TileBase"/>
+									<m_XLPPath text="tilebases.xlp"/>
+									<m_BLPPackage text="landmarks/tilebases"/>
+									<m_LibraryName text="TileBase"/>
+									<m_ParamName text="Asset"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text="Landmarks.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Landmarks"/>
+									<m_ParamName text="ResourceType"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="Pivot Height"/>
+									<m_ParamName text="TerrainFollowMode"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="OPTIONAL"/>
+									<m_ParamName text="Cull Mode"/>
+								</Element>
+							</m_Values>
+						</m_CookParams>
+						<m_position>
+							<x>-1.417480</x>
+							<y>17.228935</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.523599</z>
+						</m_orientation>
+						<m_Name text="lamp21"/>
+						<m_BoneName text="WON_Dummy"/>
+						<m_ModelInstanceName text="WON_Dummy"/>
+						<m_scale>1.500000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values>
+								<Element class="AssetObjects..BLPEntryValue">
+									<m_EntryName text="DIS_GEN_LamppostIND"/>
+									<m_XLPClass text="TileBase"/>
+									<m_XLPPath text="tilebases.xlp"/>
+									<m_BLPPackage text="landmarks/tilebases"/>
+									<m_LibraryName text="TileBase"/>
+									<m_ParamName text="Asset"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text="Landmarks.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Landmarks"/>
+									<m_ParamName text="ResourceType"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="Pivot Height"/>
+									<m_ParamName text="TerrainFollowMode"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="OPTIONAL"/>
+									<m_ParamName text="Cull Mode"/>
+								</Element>
+							</m_Values>
+						</m_CookParams>
+						<m_position>
+							<x>16.036982</x>
+							<y>6.235970</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>0.523599</z>
+						</m_orientation>
+						<m_Name text="lamp11"/>
+						<m_BoneName text="WON_Dummy"/>
+						<m_ModelInstanceName text="WON_Dummy"/>
+						<m_scale>1.500000</m_scale>
+					</Element>
 				</m_Points>
 			</m_attachmentPoints>
 			<m_stateSet/>
@@ -429,6 +621,48 @@
 				<m_Name text="Petra_Camera"/>
 				<m_GeoName text="Petra_Camera"/>
 				<m_GroupStates/>
+			</Element>
+			<Element>
+				<m_Name text="TerrainElement_SingleHex_Decal"/>
+				<m_GeoName text="TerrainElement_SingleHex_Decal"/>
+				<m_GroupStates>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Brandenburg_Tile_Decal"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>true</m_bValue>
+									<m_ParamName text="Visible"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
+						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
+						<m_StateName text="Worked"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Brandenburg_Tile_Decal"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>true</m_bValue>
+									<m_ParamName text="Visible"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
+						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
+						<m_StateName text="Ruined"/>
+					</Element>
+				</m_GroupStates>
 			</Element>
 			<Element>
 				<m_Name text="WON_Dummy"/>
@@ -713,8 +947,8 @@
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
-		<build>415</build>
-		<revision>990</revision>
+		<build>451</build>
+		<revision>343</revision>
 	</m_Version>
 	<m_ParticleEffects/>
 	<m_Geometries/>

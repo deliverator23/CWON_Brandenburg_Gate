@@ -27,66 +27,12 @@
         <m_ModelInstances>
             <Element>
                 <m_Name text="Brendenburg_Gate"/>
-                <m_GeoName text="Brandenburg_Gate"/>
+                <m_GeoName text="Brandenburg_Gate_Constr"/>
                 <m_GroupStates>
                     <Element>
                         <m_Values>
                             <m_Values>
                                 <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture5"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture5"/>
-                        <m_MeshName text="EaglePole"/>
-                        <m_StateName text="Unworked"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture5"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture5"/>
-                        <m_MeshName text="EaglePole"/>
-                        <m_StateName text="Worked"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture5"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture5"/>
-                        <m_MeshName text="EaglePole"/>
-                        <m_StateName text="Pillaged"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
                                     <m_ObjectName text="brgt_texture0"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
@@ -530,186 +476,6 @@
                             </m_Values>
                         </m_Values>
                         <m_GroupName text="brgt_texture10"/>
-                        <m_MeshName text="Main"/>
-                        <m_StateName text="Construction"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture7"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture7"/>
-                        <m_MeshName text="Main"/>
-                        <m_StateName text="Unworked"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture7"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture7"/>
-                        <m_MeshName text="Main"/>
-                        <m_StateName text="Worked"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture7"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture7"/>
-                        <m_MeshName text="Main"/>
-                        <m_StateName text="Pillaged"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture7"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture7"/>
-                        <m_MeshName text="Main"/>
-                        <m_StateName text="Unbuilt"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture7"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture7"/>
-                        <m_MeshName text="Main"/>
-                        <m_StateName text="Construction"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture8"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture8"/>
-                        <m_MeshName text="Main"/>
-                        <m_StateName text="Unworked"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture8"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture8"/>
-                        <m_MeshName text="Main"/>
-                        <m_StateName text="Worked"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture8"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture8"/>
-                        <m_MeshName text="Main"/>
-                        <m_StateName text="Pillaged"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture8"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture8"/>
-                        <m_MeshName text="Main"/>
-                        <m_StateName text="Unbuilt"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture8"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture8"/>
                         <m_MeshName text="Main"/>
                         <m_StateName text="Construction"/>
                     </Element>
@@ -861,7 +627,7 @@
                         <m_Values>
                             <m_Values>
                                 <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture6"/>
+                                    <m_ObjectName text="brgt_texture3"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
                                 </Element>
@@ -871,15 +637,51 @@
                                 </Element>
                             </m_Values>
                         </m_Values>
-                        <m_GroupName text="brgt_texture6"/>
-                        <m_MeshName text="Quadriga_Base"/>
+                        <m_GroupName text="brgt_texture3"/>
+                        <m_MeshName text="Main"/>
+                        <m_StateName text="Unbuilt"/>
+                    </Element>
+                    <Element>
+                        <m_Values>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="brgt_texture3"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                                <Element class="AssetObjects..BoolValue">
+                                    <m_bValue>true</m_bValue>
+                                    <m_ParamName text="Visible"/>
+                                </Element>
+                            </m_Values>
+                        </m_Values>
+                        <m_GroupName text="brgt_texture3"/>
+                        <m_MeshName text="Main"/>
+                        <m_StateName text="Construction"/>
+                    </Element>
+                    <Element>
+                        <m_Values>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="brgt_texture9"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                                <Element class="AssetObjects..BoolValue">
+                                    <m_bValue>true</m_bValue>
+                                    <m_ParamName text="Visible"/>
+                                </Element>
+                            </m_Values>
+                        </m_Values>
+                        <m_GroupName text="brgt_texture11"/>
+                        <m_MeshName text="Main"/>
                         <m_StateName text="Unworked"/>
                     </Element>
                     <Element>
                         <m_Values>
                             <m_Values>
                                 <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture6"/>
+                                    <m_ObjectName text="brgt_texture9"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
                                 </Element>
@@ -889,15 +691,15 @@
                                 </Element>
                             </m_Values>
                         </m_Values>
-                        <m_GroupName text="brgt_texture6"/>
-                        <m_MeshName text="Quadriga_Base"/>
+                        <m_GroupName text="brgt_texture11"/>
+                        <m_MeshName text="Main"/>
                         <m_StateName text="Worked"/>
                     </Element>
                     <Element>
                         <m_Values>
                             <m_Values>
                                 <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture6"/>
+                                    <m_ObjectName text="brgt_texture9"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
                                 </Element>
@@ -907,15 +709,15 @@
                                 </Element>
                             </m_Values>
                         </m_Values>
-                        <m_GroupName text="brgt_texture6"/>
-                        <m_MeshName text="Quadriga_Base"/>
+                        <m_GroupName text="brgt_texture11"/>
+                        <m_MeshName text="Main"/>
                         <m_StateName text="Pillaged"/>
                     </Element>
                     <Element>
                         <m_Values>
                             <m_Values>
                                 <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture6"/>
+                                    <m_ObjectName text="brgt_texture9"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
                                 </Element>
@@ -925,15 +727,15 @@
                                 </Element>
                             </m_Values>
                         </m_Values>
-                        <m_GroupName text="brgt_texture6"/>
-                        <m_MeshName text="Quadriga_Statue"/>
-                        <m_StateName text="Unworked"/>
+                        <m_GroupName text="brgt_texture11"/>
+                        <m_MeshName text="Main"/>
+                        <m_StateName text="Unbuilt"/>
                     </Element>
                     <Element>
                         <m_Values>
                             <m_Values>
                                 <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture6"/>
+                                    <m_ObjectName text="brgt_texture9"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
                                 </Element>
@@ -943,27 +745,9 @@
                                 </Element>
                             </m_Values>
                         </m_Values>
-                        <m_GroupName text="brgt_texture6"/>
-                        <m_MeshName text="Quadriga_Statue"/>
-                        <m_StateName text="Worked"/>
-                    </Element>
-                    <Element>
-                        <m_Values>
-                            <m_Values>
-                                <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="brgt_texture6"/>
-                                    <m_eObjectType>MATERIAL</m_eObjectType>
-                                    <m_ParamName text="Material"/>
-                                </Element>
-                                <Element class="AssetObjects..BoolValue">
-                                    <m_bValue>true</m_bValue>
-                                    <m_ParamName text="Visible"/>
-                                </Element>
-                            </m_Values>
-                        </m_Values>
-                        <m_GroupName text="brgt_texture6"/>
-                        <m_MeshName text="Quadriga_Statue"/>
-                        <m_StateName text="Pillaged"/>
+                        <m_GroupName text="brgt_texture11"/>
+                        <m_MeshName text="Main"/>
+                        <m_StateName text="Construction"/>
                     </Element>
                 </m_GroupStates>
             </Element>
@@ -1050,7 +834,7 @@
     <m_Materials/>
     <m_ClassName text="TileBase"/>
     <m_DataFiles/>
-    <m_Name text="Brandenburg_Gate"/>
+    <m_Name text="Brandenburg_Gate_HB"/>
     <m_Description text=""/>
     <m_Tags>
         <Element text="TileBase"/>
