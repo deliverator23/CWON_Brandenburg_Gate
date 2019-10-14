@@ -45,7 +45,7 @@ INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('BRANDENBURG_GRA
 INSERT INTO BuildingModifiers (BuildingType, ModifierId) VALUES ('BUILDING_BRANDENBURG_GATE', 'BRANDENBURG_GRANT_GENERAL');
 
 
--- +3 Loyalty per turn for cities with a garrisoned unit. (With Rise & Fall)
+-- +3 Loyalty per turn for cities with a garrisoned unit.
 INSERT INTO Modifiers (ModifierId, ModifierType, SubjectRequirementSetId)
 SELECT 'BRANDENBURG_GARRISON_LOYALTY', 'MODIFIER_PLAYER_CITIES_ADJUST_IDENTITY_PER_TURN', 'CITY_HAS_GARRISON_UNIT_REQUIERMENT'
 FROM   Modifiers WHERE ModifierId = 'LIMITANEI_GARRISONIDENTITY';
