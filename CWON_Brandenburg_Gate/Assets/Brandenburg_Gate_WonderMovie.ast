@@ -459,7 +459,7 @@
 							<z>0.523599</z>
 						</m_orientation>
 						<m_Name text="lamp1"/>
-						<m_BoneName text="WON_Dummy"/>
+						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
 						<m_scale>1.500000</m_scale>
 					</Element>
@@ -507,7 +507,7 @@
 							<z>0.523599</z>
 						</m_orientation>
 						<m_Name text="lamp2"/>
-						<m_BoneName text="WON_Dummy"/>
+						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
 						<m_scale>1.500000</m_scale>
 					</Element>
@@ -555,7 +555,7 @@
 							<z>0.523599</z>
 						</m_orientation>
 						<m_Name text="lamp21"/>
-						<m_BoneName text="WON_Dummy"/>
+						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
 						<m_scale>1.500000</m_scale>
 					</Element>
@@ -603,7 +603,7 @@
 							<z>0.523599</z>
 						</m_orientation>
 						<m_Name text="lamp11"/>
-						<m_BoneName text="WON_Dummy"/>
+						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
 						<m_scale>1.500000</m_scale>
 					</Element>
