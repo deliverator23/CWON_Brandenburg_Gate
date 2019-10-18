@@ -16,10 +16,10 @@
 						<m_SlotName text="RUINED_A"/>
 						<m_AnimationName text="Show_Half_Built"/>
 					</Element>
-					<Element>
-						<m_SlotName text="REVEAL_A"/>
-						<m_AnimationName text="WON_Petra_Wonder_Movie"/>
-					</Element>
+                    <Element>
+                        <m_SlotName text="REVEAL_A"/>
+                        <m_AnimationName text="WON_Hermitage_Movie"/>
+                    </Element>
 				</m_Bindings>
 			</m_animationBindings>
 			<m_timelineBindings>
@@ -45,11 +45,11 @@
 			<m_timelines>
 				<m_Timelines>
 					<Element>
-						<m_Name text="REVEAL_A"/>
-						<m_Description text=""/>
-						<m_AnimationName text=""/>
-						<m_fDuration>16.666668</m_fDuration>
-						<m_Triggers>
+                        <m_Name text="REVEAL_A"/>
+                        <m_Description text=""/>
+                        <m_AnimationName text="WON_Hermitage_Movie"/>
+                        <m_fDuration>0.000000</m_fDuration>
+                        <m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
 								<m_Name text="1"/>
@@ -617,11 +617,11 @@
 	</m_BehaviorData>
 	<m_GeometrySet>
 		<m_ModelInstances>
-			<Element>
-				<m_Name text="Petra_Camera"/>
-				<m_GeoName text="Petra_Camera"/>
-				<m_GroupStates/>
-			</Element>
+            <Element>
+                <m_Name text="WON_Hermitage_Movie_Camera"/>
+                <m_GeoName text="WON_Hermitage_Movie_Camera"/>
+                <m_GroupStates/>
+            </Element>
 			<Element>
 				<m_Name text="TerrainElement_SingleHex_Decal"/>
 				<m_GeoName text="TerrainElement_SingleHex_Decal"/>
