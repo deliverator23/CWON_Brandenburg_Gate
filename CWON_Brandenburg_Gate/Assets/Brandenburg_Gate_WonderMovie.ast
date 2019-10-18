@@ -439,11 +439,11 @@
 									<m_ParamName text="ResourceType"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="OPTIONAL"/>
+									<m_Value text="PERMANENT"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
 							</m_Values>
@@ -487,11 +487,11 @@
 									<m_ParamName text="ResourceType"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="OPTIONAL"/>
+									<m_Value text="PERMANENT"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
 							</m_Values>
@@ -535,11 +535,11 @@
 									<m_ParamName text="ResourceType"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="OPTIONAL"/>
+									<m_Value text="PERMANENT"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
 							</m_Values>
@@ -583,11 +583,11 @@
 									<m_ParamName text="ResourceType"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="OPTIONAL"/>
+									<m_Value text="PERMANENT"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
 							</m_Values>
