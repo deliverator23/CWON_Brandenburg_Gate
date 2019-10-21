@@ -9,16 +9,10 @@ INSERT INTO Building_YieldChanges (BuildingType, YieldType, YieldChange) VALUES 
 
 INSERT INTO Building_ValidTerrains (BuildingType, TerrainType)
 VALUES
-  (
-    'BUILDING_BRANDENBURG_GATE', 'TERRAIN_GRASS'
-  ),
-  (
-    'BUILDING_BRANDENBURG_GATE', 'TERRAIN_PLAINS'
-  ),
-  (
-    'BUILDING_BRANDENBURG_GATE', 'TERRAIN_TUNDRA'
-  );
-
+  ('BUILDING_BRANDENBURG_GATE', 'TERRAIN_GRASS'),
+  ('BUILDING_BRANDENBURG_GATE', 'TERRAIN_PLAINS'),
+  ('BUILDING_BRANDENBURG_GATE', 'TERRAIN_TUNDRA'),
+  ('BUILDING_BRANDENBURG_GATE', 'TERRAIN_DESERT');
 
 -- +25% combat experience for all land units trained in this city
 INSERT INTO RequirementSets (RequirementSetId, RequirementSetType)
